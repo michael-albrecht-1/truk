@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+$light: #f0f;
+$dark: rgb(27, 27, 27);
+
+body {
+  color: $light;
+  background-color: $dark;
+}
